@@ -6,6 +6,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  font-family: "Rubik",sans-serif;
 
 }
 body {
@@ -26,4 +27,9 @@ span {
   display: block;
   text-align: center;
   font-size: 100px;
+}
+p {
+  font-size: 16px;
+  color: #ffffff;
+
 }
